@@ -1,6 +1,6 @@
 # Банковские счета
 
-Одно из заданий для закрепления раздела "Принципы ООП" на курсе "Java-разработка" от Digital Spirit. Его описание представленно ниже.
+Одно из заданий для закрепления раздела "Принципы ООП" на курсе "Java-разработка" от Digital Spirit. Его описание представлено ниже.
 
 <details>
   <summary><h2>Задание</h2></summary>
@@ -48,8 +48,8 @@
 <details>
   <summary><h2>Моё решение</h2></summary>
 
-<div align="left">
+<div align="center">
       <a href="https://www.youtube.com/watch?v=elCPcZjmPhU">
-         <img src="https://www.youtube.com/vi/elCPcZjmPhU/0.jpg" style="width:100%;">
+         <img src="https://user-images.githubusercontent.com/78896984/224849162-3d74331e-3142-45cb-8335-cf2345333764.jpg" style="width:60%;">
       </a>
 </div>
