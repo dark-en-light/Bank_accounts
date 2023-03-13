@@ -48,4 +48,8 @@
 <details>
   <summary><h2>Моё решение</h2></summary>
 
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=elCPcZjmPhU">
+         <img src="https://www.youtube.com/vi/elCPcZjmPhU/0.jpg" style="width:100%;">
+      </a>
+</div>
